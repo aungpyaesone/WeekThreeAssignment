@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">WeekThreeAssignment</string>
+    <string name="home">Home</string>
+    <string name="date">Date</string>
+    <string name="search">Search</string>
+    <string name="bookmark">Bookmark</string>
+
+    <string name="near_by">Nearby</string>
+    <string name="popular">Popular</string>
+    <string name="all">All</string>
+    <string name="this_image_for_location">This image for location</string>
+
+    <string-array name="item">
+        <item>Dhaka</item>
+        <item>Yangon</item>
+        <item>Mandalay</item>
+        <item>Pathein</item>
+        <item>Pyay</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>$100</item>
+        <item>$200</item>
+        <item>$300</item>
+        <item>$400</item>
+        <item>$500</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_4_5_21_ratings">4.5 (21 ratings)</string>
+    <string name="_99_day">$99/day</string>
+    <string name="the_westeen">The Westeen</string>
+    <string name="get_50_off">GET 50 % OFF</string>
+    <string name="free_wifi_swimming">Free Wifi . Swimming</string>
+    <string name="gulshan_circle_2_dhaka">Gulshan Circle 2, Dhaka</string>
+    <string name="radisum">Radisum Blu</string>
+    <string name="apirtport">Airport Road, Dhaka</string>
+    <string name="_4_3_21_ratings">4.3 (21 ratings)</string>
+    <string name="_89_day">$89/day</string>
+    <string name="free_buffet_dinner">FREE BUFFET DINNER</string>
+    <string name="explore">Explore</string>
+    <string name="filter">Filters</string>
+    <string name="location">Location</string>
+    <string name="check_in">Check In</string>
+    <string name="check_out">Check Out</string>
+    <string name="rooms">Rooms</string>
+    <string name="counts">Counts</string>
+    <string name="search_now">Search Now</string>
+    <string name="dhaka">Dhaka</string>
+    <string name="i_am_bookmark_fragment">I am Bookmark Fragment</string>
+    <string name="i_am_third_fragment">I am Third Fragment</string>
+    <string name="top_searches">TOP SEARCHES</string>
+    <string name="tulip_hotel">Tulip Hotel</string>
+    <string name="caxbazar_chittagong">Caxbazar, Chittagong</string>
+    <string name="recent_searches">RECENT SEARCHES</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="filters">Filters</string>
+    <string name="sort_by">SORT BY</string>
+    <string name="price">Price</string>
+    <string name="rating">RATING</string>
+    <string name="none">NONE</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="price_range">PRICE RANGE</string>
+    <string name="_90_350">$90 - $350</string>
+    <string name="average_250">Average-$250</string>
+</resources>
